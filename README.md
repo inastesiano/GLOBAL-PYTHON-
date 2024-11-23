@@ -2,6 +2,10 @@
 
 Este programa simula un sistema para detectar y mutar secuencias de ADN, identificando posibles mutaciones horizontales, verticales o diagonales en una matriz 6x6 que representa el ADN. Además, incluye la capacidad de sanar las mutaciones generando un nuevo ADN sin mutaciones.
 
+## INTEGRANTES
+
+ASTESIANO IÑAKI
+FARFÁN HERNAN
 
 ## Archivos incluidos en el repositorio
 
